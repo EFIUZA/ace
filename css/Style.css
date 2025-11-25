@@ -345,3 +345,18 @@ footer {
         font-size: 2.5rem;
     }
 }
+
+.btn-3cx {
+    background-color: #0066ff;
+    color: white;
+    transition: all 0.3s;
+}
+
+.btn-3cx:hover {
+    background-color: #0052cc;
+    transform: translateY(-2px);
+}
+
+.btn-3cx i {
+    margin-right: 8px;
+}
